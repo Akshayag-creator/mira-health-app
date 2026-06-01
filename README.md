@@ -151,9 +151,10 @@ uvicorn main:app --reload
 **Terminal 2 — Frontend:**
 ```bash
 cd frontend
-npm run dev
-```
-
-Then open `http://localhost:5173` in your browser.
 
 
+**Author**
+Gandhe Akshaya
+
+This project was developed as part of a technical assessment for a Junior AI/ML Developer role.
+TASK-1 Assignment Submission
