@@ -151,6 +151,7 @@ uvicorn main:app --reload
 **Terminal 2 — Frontend:**
 ```bash
 cd frontend
+```
 
 
 **Author**
