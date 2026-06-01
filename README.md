@@ -47,7 +47,7 @@ mira-health-app/
 │   ├── ai_service.py        # Gemini API + ML fallback logic
 │   ├── crud.py              # Database operations
 │   ├── schemas.py           # Pydantic validation models
-│   ├── database.py          # SQLAlchemy setup
+│   ├── database.py          # sql.connector setup
 │   ├── train_model.py       # ML model training script
 │   ├── health_model.pkl     # Trained sklearn model
 │   ├── dataset/
